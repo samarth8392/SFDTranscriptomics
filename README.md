@@ -11,6 +11,7 @@ Scripts developed for manuscript **_"Genetic mechanisms and biological processes
 
 ***_Bash Scripts_***
 
-(A) RNASeq
-1. 
+- RNASeq
+1. adapter_removal.sh
+> Script to remove adapter and low base quality sequences from raw RNASeq reads using triommomatic
 

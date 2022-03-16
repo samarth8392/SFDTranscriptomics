@@ -22,6 +22,15 @@ Scripts developed for manuscript **_"Genetic mechanisms and biological processes
 > To build reference genome database and map filtered RNAseq reads using hisat2
 
 4. stringtie.sh
-> Assemble transcripts for each sample and using _C. viridis_ reference annotation file to guide assembly and merged sample transcripts 
+> To assemble transcripts for each sample using _C. viridis_ reference annotation file to guide assembly and merged sample transcripts 
 
-5. 
+5. featureCounts.sh
+> To generate a transcript count matrix 
+
+- Popgen
+1. adapter_removal.sh
+> To remove adapter and low base quality sequences from raw whole genome sequence reads using triommomatic.
+
+3. alignment.sh
+> To align filtered genomic reads to reference genome. Script also sort, mark duplications, fix mate pair information, and get mapping stats.
+

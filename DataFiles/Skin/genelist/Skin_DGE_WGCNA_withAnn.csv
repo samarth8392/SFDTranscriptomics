@@ -1,0 +1,2 @@
+Chr,Start,End,GeneID,Homolog_Anolis,Homolog_Python,Homolog_Thamnophis,Module,Gene_MM,Gene_TS,baseMean,log2FoldChange,lfcSE,pvalue,padj
+scaffold-mi6,12422339,12455041,augustus_masked-scaffold-mi6-processed-gene-41.6,plcg2,PLCG2,PLCG2,firebrick4,0.924664272,0.639309451,12.82990169,-4.59814246,1.459548505,4.64e-06,0.01248741

@@ -1,0 +1,11 @@
+﻿Sample_ID,Individual,Sex,Temp,Treatment,Tissue
+CV05_F_20C_Con_Liver,CV05,F,20C,Control,Liver
+CV13_M_20C_Con_Liver,CV13,M,20C,Control,Liver
+CV17_M_26C_Con_Liver,CV17,M,26C,Control,Liver
+CV24_F_26C_Con_Liver,CV24,F,26C,Control,Liver
+CV01_F_20C_Inf_Liver,CV01,F,20C,Treated,Liver
+CV03_F_20C_Inf_Liver,CV03,F,20C,Treated,Liver
+CV06_F_26C_Inf_Liver,CV06,F,26C,Treated,Liver
+CV18_M_26C_Inf_Liver,CV18,M,26C,Treated,Liver
+CV19_M_26C_Inf_Liver,CV19,M,26C,Treated,Liver
+CV21_M_20C_Inf_Liver,CV21,M,20C,Treated,Liver

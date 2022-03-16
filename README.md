@@ -11,3 +11,6 @@ Scripts developed for manuscript **_"Genetic mechanisms and biological processes
 
 ***_Bash Scripts_***
 
+(A) RNASeq
+1. 
+

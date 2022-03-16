@@ -1,0 +1,12 @@
+﻿Sample_ID,Individual,Sex,Temp,Treatment,Tissue
+CV05_F_20C_Con_Kidney,CV05,F,20C,Control,Kidney
+CV13_M_20C_Con_Kidney,CV13,M,20C,Control,Kidney
+CV17_M_26C_Con_Kidney,CV17,M,26C,Control,Kidney
+CV24_F_26C_Con_Kidney,CV24,F,26C,Control,Kidney
+CV01_F_20C_Inf_Kidney,CV01,F,20C,Treated,Kidney
+CV03_F_20C_Inf_Kidney,CV03,F,20C,Treated,Kidney
+CV06_F_26C_Inf_Kidney,CV06,F,26C,Treated,Kidney
+CV16_M_20C_Inf_Kidney,CV16,M,20C,Treated,Kidney
+CV18_M_26C_Inf_Kidney,CV18,M,26C,Treated,Kidney
+CV19_M_26C_Inf_Kidney,CV19,M,26C,Treated,Kidney
+CV21_M_20C_Inf_Kidney,CV21,M,20C,Treated,Kidney

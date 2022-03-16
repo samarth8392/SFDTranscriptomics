@@ -31,6 +31,32 @@ Scripts developed for manuscript **_"Genetic mechanisms and biological processes
 1. adapter_removal.sh
 > To remove adapter and low base quality sequences from raw whole genome sequence reads using triommomatic.
 
-3. alignment.sh
+2. alignment.sh
 > To align filtered genomic reads to reference genome. Script also sort, mark duplications, fix mate pair information, and get mapping stats.
 
+3. base_recalibration.sh
+> To identify known variants from our dataset and recalibrate base quality scores for genomic reads for each sample
+
+- RScripts
+
+1. Differential gene expression (DGE) using DESeq2
+> DGE_liver.R : For liver samples
+> DGE_kidney.R : For kidney samples
+> DGE_skin.R : For skin samples
+
+2. DGE_Compare.R
+> To compare DGE results for each tissue and extract differentially expressed genes (DEGs) due to fixed effects only
+
+3. DGE_Contrast_Compare.R
+> To compare DGE results for each tissue and extract differentially expressed genes (DEGs) due to interaction between infection and temperature
+
+4. Weighted gene co-expression network analysis (WGCNA)
+> WGCNA_liver.R : For liver samples
+> WGCNA_kidney.R : For kidney samples
+> WGCNA_skin.R : For skin samples
+
+5. Compare_WGCNA.R
+> To compare WGCNA results for each tissue and extract genes within each module significantly associated with infection or the interaction between infection and temperature.
+
+6. gene_list.R
+> To get the final gene lists from DGE and WGCNA analysis.

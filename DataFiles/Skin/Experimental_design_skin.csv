@@ -1,0 +1,11 @@
+﻿Sample_ID,Individual,Sex,Temp,Treatment,Tissue
+CV05_F_20C_Con_Skin,CV05,F,20C,Control,Skin
+CV13_M_20C_Con_Skin,CV13,M,20C,Control,Skin
+CV17_M_26C_Con_Skin,CV17,M,26C,Control,Skin
+CV24_F_26C_Con_Skin,CV24,F,26C,Control,Skin
+CV01_F_20C_Inf_Skin,CV01,F,20C,Treated,Skin
+CV03_F_20C_Inf_Skin,CV03,F,20C,Treated,Skin
+CV06_F_26C_Inf_Skin,CV06,F,26C,Treated,Skin
+CV16_M_20C_Inf_Skin,CV16,M,20C,Treated,Skin
+CV19_M_26C_Inf_Skin,CV19,M,26C,Treated,Skin
+CV21_M_20C_Inf_Skin,CV21,M,20C,Treated,Skin

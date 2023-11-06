@@ -3,7 +3,7 @@
 
 **Publication:**
 
-Samarth Mathur, Ellen Haynes, Matthew C. Allender, H. Lisle Gibbs (2023). Genetic mechanisms and biological processes underlying host response to ophidiomycosis (Snake Fungal Disease) inferred from tissue-specific transcriptome analyses. _Molecular Ecology_ (in press).
+Samarth Mathur, Ellen Haynes, Matthew C. Allender, H. Lisle Gibbs (2023). Genetic mechanisms and biological processes underlying host response to ophidiomycosis (snake fungal disease) inferred from tissue-specific transcriptome analyses. _Molecular Ecology_ (in press).
 
 ## Folders ##
 

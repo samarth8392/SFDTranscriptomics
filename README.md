@@ -1,5 +1,9 @@
-# SFD Transcriptomics
-Scripts developed for manuscript **_"Genetic mechanisms and biological processes underlying host response to ophiodiomycosis (Snake Fungal Disease) inferred from tissue-specific transcriptomes"._**
+# SFD Transcriptomics 🐍
+>This Github repository contains scripts developed for the transcriptomic study of host response to snake fungal disease (ophidiomycosis) in different temperature conditions
+
+**Publication:**
+
+Samarth Mathur, Ellen Haynes, Matthew C. Allender, H. Lisle Gibbs (2023). Genetic mechanisms and biological processes underlying host response to ophidiomycosis (Snake Fungal Disease) inferred from tissue-specific transcriptome analyses. _Molecular Ecology_ (in press).
 
 ## Folders ##
 
